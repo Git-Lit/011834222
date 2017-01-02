@@ -1,3 +1,7 @@
+---
+layout: default
+title: Notes on Kairá, a district in fertile Gujarát
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
